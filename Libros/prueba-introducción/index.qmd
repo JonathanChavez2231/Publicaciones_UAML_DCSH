@@ -1,0 +1,8 @@
+---
+type: chapter
+
+---
+
+# Esta sería la introducción
+## Zaid
+Aquí irá el texto de prueba...
