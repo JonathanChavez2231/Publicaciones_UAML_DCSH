@@ -32,7 +32,7 @@ type: chapter
 
 # Personalización específica (opcional, solo si varía por capítulo)
 footer-note: |
-  \newcommand{\articuloTitulo}{[Título abreviado]}
+  \newcommand{\articuloTitulo}{Trabajo y Programas Sociales en el Sector Residuos}
 
 # Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
 acknowledgments: ""  # Agradecimientos específicos del capítulo
@@ -40,11 +40,9 @@ funding: ""  # Financiamiento específico
 notes: ""  # Notas del autor
 ---
 
-## Intro {.unnumbered .unlisted}
-
 \addtocontents{toc}{\protect\hspace{1.5em}Marco Antonio Rodríguez Gómez y Nancy Merary Jiménez Martínez\par}
 
-# Introducción
+# Introducción {.unnumbered .unlisted}
 
 El objetivo de este artículo fue desarrollar un análisis y propuesta de alineación de los programas sociales federales hacia la población que trabaja de manera formal e informal en los sistemas de gestión de residuos sólidos urbanos en las ciudades de Acapulco, Oaxaca y Tlaxcala, todas capitales de sus estados, así como el municipio de Cuetzalan, que tiene un carácter rural e indígena[^1].
 
@@ -56,7 +54,7 @@ Este análisis abarcó dos aspectos importantes: un diagnóstico detallado de la
 
 El artículo se organiza de la siguiente manera: se presenta el diagnóstico del problema y se propone un encuadre conceptual para abordarlo, posteriormente se expone el marco metodológico del trabajo y la parte final se dedica a la presentación de resultados, su discusión y las conclusiones de esta investigación.
 
-# Diagnóstico del Problema
+# Diagnóstico del Problema {.unnumbered .unlisted}
 
 México, al igual que otros países, ha adoptado políticas neoliberales que han reconfigurado la estructura institucional del país. Estas políticas, caracterizadas por la acumulación de capital mediante la flexibilidad laboral y la reducción de beneficios para la fuerza de trabajo [@Harvey2007], han generado un panorama marcado por el incremento de la población con bajos ingresos y escasa cobertura de seguridad social [@Martinez2019]. En este contexto, una proporción significativa de la fuerza laboral ha sido empujada hacia la informalidad laboral, entendida como cualquier actividad laboral que no está regulada ni tiene la protección del Estado [@Hart1971]. En esta línea, @Sassen1991 exploró cómo la globalización y la reestructuración económica influyen en el crecimiento del sector informal, especialmente en las grandes ciudades del mundo, y encontró que la economía informal es una respuesta a las nuevas formas de organización del trabajo impuestas por la globalización. Esta dinámica es particularmente evidente en el sector de los residuos sólidos urbanos, donde las personas trabajadoras formales como informales se encuentran expuestas a estas transformaciones estructurales que impactan negativamente su calidad de vida.
 
@@ -70,7 +68,7 @@ Y aunque desempeñan un papel crucial en la recuperación de residuos valorizabl
 
 Este escenario cobra relevancia en un contexto donde la política social de la Cuarta Transformación, diseñada bajo principios de universalidad, busca garantizar el acceso a programas sociales sin condicionamientos previos [@GobiernodeMexico2019]. A pesar de los principios de universalidad, la cobertura de los programas sociales federales no ha sido analizada en su capacidad para incluir al personal laboral formal e informal del sector residuos; es decir, para dilucidar qué tanto esa universalidad les acerca los beneficios de la política social y en todo caso, avizorar de qué forma podría orientarse a su favor.
 
-# Encuadre conceptual
+# Encuadre conceptual {.unnumbered .unlisted}
 
 Las reformas de corte neoliberal implementadas en México han transformado la estructura institucional del Estado, afectando múltiples ámbitos sociales, económicos y laborales. Estas transformaciones incluyen procesos como la descentralización administrativa, la privatización de empresas paraestatales, la apertura de mercados internacionales y la flexibilización laboral. @Harvey2007 identifica a la flexibilización como un eje central en este modelo, subrayando su impacto en la precarización del empleo: reducción de salarios, pérdida de beneficios laborales y aumento de la inseguridad laboral.
 
@@ -92,7 +90,7 @@ Las posiciones que ocupan las personas en la estructura social están atravesada
 
 Aunque el enfoque de @Adelantado1998 permite comprender cómo la política social se inserta en una estructura social diferenciada por esferas y ejes de desigualdad, resulta necesario articular esta lectura con los debates sobre el diseño institucional de los programas sociales en América Latina. En contextos donde persisten modelos de universalismo o focalización [@Cohen2005], aproximaciones que integren ambas perspectivas no debilitan la universalidad de derechos, sino que aspiran a fortalecerla desde la heterogeneidad. En este marco, indagar si los programas de política social universal impulsados durante la Cuarta Transformación benefician a quienes trabajan en el sector de residuos resulta clave para examinar su inclusión en función de las condiciones particulares de vulnerabilidad que enfrenta.
 
-# Metodología
+# Metodología {.unnumbered .unlisted}
 
 Se adoptó un diseño metodológico mixto que combinó métodos cuantitativos y cualitativos, permitiendo una comprensión integral de las problemáticas que enfrentan las personas trabajadoras de los sistemas de gestión de los residuos sólidos urbanos en su acceso a los programas sociales federales. Este enfoque facilita la integración de datos numéricos con información contextual, enriqueciendo el análisis al combinar perspectivas complementarias [@Creswell2014].
 
@@ -112,7 +110,7 @@ Además, para la componente cualitativa del estudio se analizaron los programas 
 
 En primer lugar, se seleccionaron los programas relevantes a partir del Plan Nacional de Desarrollo 2019-2024 [@GobiernodeMexico2019], los programas sectoriales y las reglas de operación priorizando aquellos dirigidos a personas adultas mayores, personas con discapacidad permanente y madres trabajadoras sin acceso a seguridad social. Posteriormente, se analizaron los Diagnósticos para los Programas de Nueva Creación para identificar los objetivos, la definición de problemas, las causas estructurales y los efectos asociados que cada programa busca atender. Esta información fue organizada en categorías clave: programa, problemática atendida, causas, efectos y población potencial y objetivo, asegurando una sistematización coherente y clara para analizarlos a la luz de las encuestas aplicadas.
 
-# Resultados
+# Resultados {.unnumbered .unlisted}
 
 En esta sección se presentan en primer lugar, los aspectos sociodemográficos, escolaridad, distribución laboral y antigüedad, así como jornadas laborales y contratación de las personas formales e informales participantes. Posteriormente, se muestra cuáles son los programas sociales federales que los benefician directamente y la cobertura de estos en sus familias. Por último, se describen las problemáticas que atienden los programas sociales federales, sus causas y efectos, así como su cobertura y cómo se relacionan con los aspectos sociodemográficos de los trabajadores del sector residuos cuando señalan que son beneficiarios directos o indirectos.
 
@@ -143,7 +141,7 @@ Entre las personas trabajadoras formales, la antigüedad promedio en el empleo e
 
 Además, se identificaron diferencias en la duración de la jornada laboral. Por ejemplo, se identificó que 61% del personal formal trabaja en promedio entre 7 y 8 horas al día y 26% trabaja más de 40 horas semanales. En contraste, los horarios de trabajo de la población informal son más extendidos: 33% trabaja 11 horas diarias y 62% labora más de 40 horas por semana (gráfica 1).
 
-![Gráfica 1. Comparación de jornadas laborales (horas semanales). Elaboración propia](images/fig1_art005_v1n2.png){#fig-1}
+![Gráfica 1. Comparación de jornadas laborales (horas semanales). Elaboración propia](assets/imagenes/cap2_fig1_lib1.jpg){#fig-1}
 
 Finalmente, las condiciones de contratación destacan que hay inestabilidad laboral incluso entre el personal formal[^3], ya que únicamente 28% tiene contrato fijo o base, el resto tiene contratos temporales que renuevan cada tres meses (24%), semestralmente (4%), anualmente (7%) y 37% no tiene una duración definida. Esta situación reafirma los datos oficiales del INEGI y da cuenta que la precariedad laboral que padece la fuerza laboral formal en el sector de los residuos es más acentuada en los municipios de estudio.
 
@@ -159,7 +157,7 @@ Sin embargo, las poblaciones encuestadas señalan que hay programas sociales que
 
 Los programas sociales federales que benefician a las familias del personal formal son: Pensión para el bienestar de las personas adultas mayores (41%), Becas para el bienestar Benito Juárez (41%), Jóvenes construyendo el futuro (10%), Pensión para el Bienestar de las Personas con discapacidad permanente (3%) y Sembrando vida (3%). En el caso de las familias del personal informal, se benefician del Programa Pensión para el bienestar de las personas adultas mayores (60%), Becas para el bienestar Benito Juárez (20%), Pensión para el bienestar de las personas con discapacidad permanente (20%). Como se muestra en la gráfica 2.
 
-![Gráfica 2. Programas sociales que benefician a las familias del personal laboral del sector residuos. Elaboración propia.](images/fig2_art005_v1n2.png){#fig-2}
+![Gráfica 2. Programas sociales que benefician a las familias del personal laboral del sector residuos. Elaboración propia.](assets/imagenes/cap2_fig1_lib1.jpg){#fig-2}
 
 
 Finalmente, se destaca que 18% de las personas trabajadoras formales o sus familiares han buscado beneficiarse de los distintos programas sociales, principalmente de las Becas para el bienestar Benito Juárez y el Programa de apoyo para el bienestar de las niñas y niños, hijos de madres trabajadoras, pero han enfrentado obstáculos para hacerlo; además se señaló la recurrencia a ser beneficiarios del Programa de apoyos directos al campo, actualmente denominado PROCAMPO Productivo; sin embargo, no haberlo conseguido. Por otro lado, llama la atención que un menor porcentaje de personas trabajadoras informales o sus familiares han buscado ser beneficiarios de la política social (14%) en comparación con los familiares o personal formal, siendo las Becas para el bienestar Benito Juárez el principal instrumento al que buscan adherirse. De acuerdo con los datos recabados, la falta de documentos es el principal obstáculo que los limita a acceder a ese apoyo.
@@ -199,7 +197,7 @@ Una vez señalados cuáles son los principales programas sociales federales, se 
 
 A continuación, se hace una explicación más detallada de cómo los programas sociales analizados se entrelazan con las vulnerabilidad de la población de estudio y sus familias; dando cuenta de las limitaciones de estos para subsanar las diferentes desventajas que enfrenta esta población laboral y sus dependientes económicos.
 
-## Pensión para las Personas Adultas Mayores e impacto indirecto en el núcleo familiar
+## Pensión para las Personas Adultas Mayores e impacto indirecto en el núcleo familiar {.unnumbered .unlisted}
 
 La edad promedio de las personas trabajadoras formales e informales es 41.8 y 41.7 años, respectivamente, lo cual justifica en parte su exclusión como beneficiarias directas del programa. Aquellas personas que sí califican y reciben apoyo de este programa son atendidas en su *acceso limitado y deficiente a la protección social.* Este problema se origina en causas estructurales como la precarización laboral, la escasa seguridad en el empleo y la limitada cobertura de previsión social. Estas condiciones aparecen en los datos obtenidos: 70% de la población trabajadora formal no tiene contrato laboral, y la situación es aún más precaria entre la población informal, quienes permanecen durante toda su vida en esa condición, lo que consolida su acceso limitado y deficiente a protección social. Ahora bien, el acelerado envejecimiento de la población mexicana, establecida por el diagnóstico de este programa como una causa que favorece la problemática en este sector etario de la población, también revela que este grupo laboral pronto ingresará a la población potencial del programa, pues de acuerdo con los hallazgos de la investigación se encuentra en riesgo de envejecimiento sin protección social.
 
@@ -207,7 +205,7 @@ Aunque el programa no ofrece cobertura directa a la población trabajadora, tien
 
 Estos datos muestran que, aunque el personal laboral del sector no recibe cobertura directamente, 41% del formal y 24% del informal informan que algún miembro de su familia ya sea padres o hijos, recibe apoyo de los programas sociales, principalmente, Adultos mayores y Becas Benito Juárez. Así, los familiares de este grupo laboral enfrentan una doble dependencia: por un lado, dependen del ingreso irregular o insuficiente de la persona trabajadora y por otro, el acceso a los programas, que sostienen sus necesidades básicas como dependientes. En consecuencia, estos hogares viven un ciclo continuo de vulnerabilidad, donde la ausencia de protección laboral para el trabajador o trabajadora repercute en la estructura familiar.
 
-## Becas para el Bienestar Benito Juárez
+## Becas para el Bienestar Benito Juárez {.unnumbered .unlisted}
 
 Independientemente de si las personas trabajadoras son formales o informales, el programa de Becas para el Bienestar Benito Juárez no les ofrece cobertura directa. Sin embargo, estas becas tienen un impacto en sus dependientes económicos, particularmente en sus hijos e hijas, quienes se benefician ante la *dificultad para permanecer y continuar sus estudios de educación básica,* la problemática que el programa busca resolver.
 
@@ -215,13 +213,13 @@ Este problema central tiene causas estructurales, entre ellas *los insuficientes
 
 Es relevante subrayar la baja escolaridad de las y los tutores, pues explica en parte la inclusión de sus hijos como beneficiarios de las becas. Los datos muestran que 10% del personal laboral formal e informal son analfabetas; entre ellos, 14% formales y 43% informales solo tienen estudios de primaria; 41% y 29% respectivamente cursaron hasta secundaria; 34% y 14% hasta preparatoria; y el 9% y 5% tienen estudios superiores. Esto revela un rezago educativo más notable en el sector informal, especialmente, en el nivel de secundaria y preparatoria, siendo este rezago más grave entre mujeres en trabajos informales. Estos datos subrayan que la baja escolaridad en los hogares de esta población trabajadora es una causa estructural para que los hijos sean seleccionados como beneficiarios de las becas. Este apoyo resulta fundamental, pues en estos hogares existe una mayor posibilidad de inasistencia escolar, rezago educativo, abandono y trayectoria escolares desiguales y excluyentes [@CONEVAL2024].
 
-## Programa para el Bienestar de Personas con Discapacidad Permanente
+## Programa para el Bienestar de Personas con Discapacidad Permanente {.unnumbered .unlisted}
 
 Se encontró que algunas personas trabajadoras informales son beneficiarias directas del Programa para el Bienestar de personas con discapacidad permanente. Este programa atiende el *bajo acceso a una calidad de vida* de personas con discapacidad, que tiene como efectos la discriminación familiar y laboral, la dependencia económica debido a la falta de ingresos propios y el riesgo de enfermades secundarias por limitada movilidad a actividades de educación y salud. La recepción del apoyo indica que estas personas cumplen con los criterios de discapacidad, lo cual sugiere que quienes no lo reciben no podrían cumplir con dichos criterios de elegibilidad.
 
 La condición de informalidad parece influir en la vulnerabilidad de estas personas trabajadoras con discapacidad, particularmente por su limitado acceso a servicios de seguridad social. Además, el hecho de que la mayoría laboren más de cuarenta horas a la semana refleja la exclusión del mercado formal, siendo el sector informal la alternativa laboral ante su condición de discapacidad. Asimismo, que algunos familiares de estas personas trabajadoras informales reciban la cobertura de este programa, resalta la cuestión de la dependencia familiar en hogares con condiciones de precarización, lo que supone un entorno vulnerable.
 
-# Discusión
+# Discusión {.unnumbered .unlisted}
 
 Desde la perspectiva estructural de @Adelantado1998, la política social desempeña una doble función: primero, responde a las desigualdades mediante la asignación de recursos; segundo, moldea la estructura social al reproducir o transformar relaciones de acceso, exclusión y reconocimiento. Bajo este marco, los programas sociales federales interactúan con el personal formal e informal del sector residuos en Acapulco, Oaxaca, Tlaxcala y Cuetzalan, quienes enfrentan barreras simbólicas y materiales en las esferas estatal y doméstico-familiar.
 
@@ -268,7 +266,7 @@ En conjunto, estas condiciones configuran una exclusión multidimensional que no
 
 El cuadro 3 sintetiza los ejes estratégicos identificados a partir del análisis empírico y teórico desarrollado. Su construcción responde a un ejercicio de vinculación entre los hallazgos sociodemográficos, las dimensiones de desigualdad estructural y las líneas de intervención normativas que emergen del estudio.
 
-# Conclusiones
+# Conclusiones {.unnumbered .unlisted}
 
 Este estudio, centrado en el personal formal e informal del sector de residuos sólidos en Acapulco, Oaxaca, Tlaxcala y Cuetzalan, examinó cómo la política social impulsada por la Cuarta Transformación alcanza —de manera directa o indirecta— a este grupo históricamente precarizado. A través de un diseño mixto que combinó encuestas y análisis documental, se cuantificó la cobertura real de programas sociales y se reconstruyeron trayectorias de exclusión, lo que permitió situar empíricamente el debate sobre la capacidad de la política social para modular o, por el contrario, reproducir la desigualdad estructural.
 
@@ -279,5 +277,3 @@ Aunque el marco teórico partió de una lectura estructural de la política soci
 Las diferencias territoriales resultan reveladoras. En Oaxaca predominan trabajadores formalizados al amparo de un sindicato poco democrático donde obtener un empleo de base depende de herencias y recomendaciones; en Tlaxcala, Acapulco y Cuetzalan se observa una coexistencia de esquemas híbridos: trabajadores formales que enfrentan condiciones laborales precarias: sin servicios de salud, con contratos inestables, pocas prestaciones laborales. Estas diferencias subrayan la importancia de diseñar políticas sensibles al contexto local y a los arreglos sociolaborales que configuran la exclusión en cada territorio. 
 
 No obstante, el diseño del programa social debe ser cuidadoso a fin de evitar la estigmatización de este grupo social y promover su exclusión, en lugar de facilitar la cohesión social que tanto se necesita. Un instrumento de política social para quienes laboran en el sector de los residuos debe asentarse en el principio de que todos tenemos derecho a los mismos beneficios, sobre todo a un trabajo que ofrezca la remuneración adecuada, proporcione seguridad y protección social, todo lo cual, por sus efectos a largo plazo, sería la vía para reducir la desigualdad y favorecer la cohesión social.
-
-# Referencias

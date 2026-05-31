@@ -1,92 +1,48 @@
 ---
-cod_art: "006"
-journal_section: "Temática"
-title: "Subjetividad y reflexividad: dos estudios etnográficos para el estudio de la estatalidad en Colombia"
-subtitle: "Subjectivity and relativity: two ethnographic studies for the analysis of statehood in Colombia"
-abstract: "Por medio de dos casos de estudio en Colombia se cuestionan categorías analíticas convencionales tales como: unidad de Estado, legitimidad e impersonalidad burocrática. El primer caso estudia la administración de emergencia en un Programa de la Defensoría del Pueblo a partir de una etnografía de corta duración. El segundo, corresponde a un análisis etnográfico/documental de una red criminal que funcionó en el Departamento Administrativo de Seguridad. Por medio de ambas investigaciones señalamos los límites de conceptualizaciones disciplinares para explicar: (i) la acción administrativa en contextos de emergencia humanitaria donde la impersonalidad no tiene cabida y (ii) en otros donde desde la estatalidad se cometen graves crímenes,cuestionando la legalidad misma de Estado."
-keywords:
-  - Estatalidad
-  - Etnografía
-  - Reflexividad
+# Metadatos ESENCIALES del capítulo (no repetitivos)
+title: "Subjetividad y Reflexividad: dos estudios etnográficos para el estudio de la estatalidad en Colombia"
+subtitle: "Enver Vargas Murcia y David Alzate Pérez"
+
 author:
   - name: "Enver Vargas Murcia"
-    grade: ""
-    email: ""
-    contact: "false"
-    affiliation: "Universidad Distrital Francisco José Caldas"
+    affiliation: "Universidad"
+    orcid: ""  # Si el autor lo proporciona
+    email: "un.correo@direccion.com"  # Si el autor lo proporciona
   - name: "David Alzate Pérez"
-    grade: ""
-    email: ""
-    contact: "false"
-    affiliation: "Universidad Nacional de Colombia"
-has-multiple-authors: true
-journal-name:
-  - name: "An@lítica"
-    url: "http://revista-csh.ler.uam.mx/index.php/rda"
-issn: "XXXX-XXXX"
-date: "2026-01-28"
-volume: "7"
-number: "1"
-received: ""
-accepted: ""
-published: ""
-doi: ""
-format:
-  html:
-    lang: es
-    theme: 
-      light: lux
-      dark: darkly
-    toc: true
-    number-sections: false
-    date-format: "[Última actualización] DD, MMMM, YYYY"
-    csl: estilos/apa-6th-edition-es.csl
-  tandf-pdf:
-    number-sections: false
-    toc: false
-    lof: false
-    lot: false
-    include-in-header: 
-      text: |
-        \setcounter{page}{133}
-    keep-tex: true
-citation:
-  type: article-journal
-  container-title: "An@litica"
-  url: http://revista-csh.ler.uam.mx/index.php/rda/about
-  page-first: "133"
-  page-last: "156"
-google-scholar: true
-bibliography: Analitica_v1n2.bib
+    affiliation: "[Universidad]"
+    orcid: ""  # Si el autor lo proporciona
+    email: "un.correo2@direccion.com"  # Si el autor lo proporciona  
+
+# Metadatos ESPECÍFICOS del capítulo (no centralizables)
+chapter-number: "3"
+page-range: ""  # Ajustar según paginación final
+doi: ""  # DOI del capítulo (cuando se asigne)
+
+# Contenido del capítulo
+abstract: |
+  Por medio de dos casos de estudio en Colombia se cuestionan categorías analíticas convencionales tales como: unidad de Estado, legitimidad e impersonalidad burocrática. El primer caso estudia la administración de emergencia en un Programa de la Defensoría del Pueblo a partir de una etnografía de corta duración. El segundo, corresponde a un análisis etnográfico/documental de una red criminal que funcionó en el Departamento Administrativo de Seguridad. Por medio de ambas investigaciones señalamos los límites de conceptualizaciones disciplinares para explicar: (i) la acción administrativa en contextos de emergencia humanitaria donde la impersonalidad no tiene cabida y (ii) en otros donde desde la estatalidad se cometen graves crímenes,cuestionando la legalidad misma de Estado.
+
+keywords:
+  - "Estatalidad"
+  - "Etnografía"
+  - "Reflexividad"
+
+# Tipo de documento
+type: chapter
+
+# Personalización específica (opcional, solo si varía por capítulo)
+footer-note: |
+  \newcommand{\articuloTitulo}{Subjetividad, Reflexividad y Estatalidad en Colombia}
+
+# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
+acknowledgments: ""  # Agradecimientos específicos del capítulo
+funding: ""  # Financiamiento específico
+notes: ""  # Notas del autor
 ---
 
-\newcommand{\articuloTitulo}{Estatalidad y subjetividad: Colombia}
+\addtocontents{toc}{\protect\hspace{1.5em}Enver Vargas Murcia y David Alzate Pérez\par}
 
-\begin{footnotesize}
-\textbf{Resumen}
-
-Por medio de dos casos de estudio en Colombia se cuestionan categorías analíticas convencionales tales como: unidad de Estado, legitimidad e impersonalidad burocrática. El primer caso estudia la administración de emergencia en un Programa de la Defensoría del Pueblo a partir de una etnografía de corta duración. El segundo, corresponde a un análisis etnográfico/documental de una red criminal que funcionó en el Departamento Administrativo de Seguridad. Por medio de ambas investigaciones señalamos los límites de conceptualizaciones disciplinares para explicar: (i) la acción administrativa en contextos de emergencia humanitaria donde la impersonalidad no tiene cabida y (ii) en otros donde desde la estatalidad se cometen graves crímenes,cuestionando la legalidad misma de Estado.
-
-\textbf{Palabras clave}
-
-Estatalidad, Etnografía, Reflexividad.
-\end{footnotesize}
-
-\newpage
-
-\begin{footnotesize}
-\textbf{Abstract}
-
-Through two case studies in Colombia, we question conventional analytical categories such as state unity, legitimacy, and bureaucratic impersonality. The first case studies humanitarian administration in a program run by the Ombudsman's Office through a short-term ethnography. The second is an ethnographic/documentary analysis of a criminal network operating within the Administrative Department of Security. Through both investigations, we highlight the limits of disciplinary conceptualizations to explain: (i) administrative action in contexts of humanitarian emergencies where impersonality has no place, and (ii) in contexts where serious crimes are committed from within the state, questioning the very legality of the state.
-
-\textbf{Keywords}
-
-Stateness, Ethnography, Reflexivity.
-\end{footnotesize}
-
-------------------------------------------------------------------------
-
-# Introducción: los problemas epistemológicos de la concepción tradicional del Estado para las ciencias administrativas, las ciencias políticas y la investigación
+# Introducción: los problemas epistemológicos de la concepción tradicional del Estado para las ciencias administrativas, las ciencias políticas y la investigación {.unnumbered .unlisted}
 
 ¿Qué sucede cuando un político, sus redes técnicopolíticas, o una “institución/organización” violan la legitimidad misma del “Estado”?
 ¿Cómo analizamos cuando los funcionarios contravienen la teoría política y la moralidad estatal?
@@ -166,7 +122,7 @@ En este estudio, nociones como institución, organización, ley, normatividad, i
 
 A continuación, expondremos de forma sucinta las metodologías que acompañaron ambos estudios de caso.
 
-# Metodología
+# Metodología {.unnumbered .unlisted}
 
 En este artículo se presenta un análisis reflexivo, de orden cualitativo, centrado en dos casos de estudio etnográficos, implementados en contextos públicoadministrativos en los que, a primera vista, se evidenciaba una ruptura significativa de categorías fundamentales de las ciencias políticas y administrativas, como por ejemplo, los fines normativos del Estado. 
 
@@ -185,11 +141,11 @@ En un sentido similar @Muzzopappa2022, haciendo una semblanza de la etnografía 
 
 Con el acervo analítico de ambos casos, se procedió a un estudio de contraposición/complementación de relatos, soportados en los documentos de trabajo elaborados, con los cuales se recopiló un conjunto de lineamientos que presentamos a continuación como una serie de elementos crítico-epistemológicos.
 
-# Una crítica contra el estudio convencional de las entidades públicas y la despersonalización
+# Una crítica contra el estudio convencional de las entidades públicas y la despersonalización {.unnumbered .unlisted}
 
 A continuación, presentamos de manera desagregada cada uno de los casos estudiados.
 
-## Caso de la Defensoría del Pueblo:
+## Caso de la Defensoría del Pueblo {.unnumbered .unlisted}
 
 En el año 2012 desarrollamos un estudio con la Defensoría del Pueblo colombiana que tenía como propósito estudiar un programa de política pública conocido como Programa Regionalizado para la Atención Defensorial con el que se financiaba una forma de incidir en regiones afectadas por el conflicto para la restitución de derechos de las víctimas.
 El programa contaba con recursos de la agencia de cooperación sueca, y se implementó entre los años 2009 a 2012.
@@ -267,7 +223,7 @@ Según nuestro criterio analítico, en el campo abordado existen dos realidades 
 
 Estos informes dificultan la labor del trabajo defensorial ya que esta labor se enfrenta a profundas restricciones. El problema administrativo y político que debemos responder a futuro ¿cómo conciliar o superar la desconexión de ambas realidades que colapsan y se enfrentan permanentemente?
 
-## Caso DAS:
+## Caso DAS {.unnumbered .unlisted}
 
 En el periodo presidencial de Álvaro Uribe Vélez (2002-2010) el escándalo de corrupción en el “Estado” más sonado fue el del Departamento Administrativo de Seguridad—DAS, que, fue la principal agencia de inteligencia con funciones de seguridad civil, dependiente del presidente, en cuyo seno se gestó un entramado de persecuciones, asesinatos, interceptaciones ilegales a opositores, activistas, jueces, etc.
 El escándalo sorprendió por los altos niveles de criminalidad y corrupción, lo que concluyó con el desmonte gradual de la institución a partir del 2011.
@@ -388,7 +344,7 @@ Usaron instituciones estatales y sus dispositivos funcionales, operando en el ma
 En cuanto al papel del investigador, el estudio nos condujo a pensar que el análisis no tiene que reducirse a una función de fidelidad con los viejos paradigmas de pensamiento, sino al objetivo de dar cuenta de la materialidad empírica de los objetos de estudio y las relaciones que los constituyen.
 Es decir, los investigadores deben tener la capacidad de analizar y describir el funcionamiento y desarrollo de la red, cómo se extiende y concreta más allá de ciertas categorías, a las cuales la investigación misma puede poner en cuestión.
 
-# Conclusiones
+# Conclusiones {.unnumbered .unlisted}
 
 Hemos afirmado que las conceptualizaciones convencionales de la administración pública, la ciencia política y las políticas públicas parecen no comprender la complejidad de la vida política, administrativa y social contemporánea.
 Y que producto de esta incomprensión se hace imprescindible avanzar en la teorización, conceptualización y diseño de herramientas metodológicas que posibiliten una perspectiva crítica, de tal naturaleza que permita a los investigadores el análisis de aquellas realidades que escapan a la ortodoxia académica.
@@ -406,5 +362,3 @@ Este “reflejo” académico, en el que se naturaliza lo ideológico del Estado
 
 La legitimidad de Estado, la buena fe de la institucionalidad y las dicotomías estatal e ilegal, por señalar solo unos ejemplos, no pueden seguirse manteniendo en detrimento de la necesidad de descripción empírica de fenómenos concretos.
 En Colombia, por ejemplo, debemos avanzar en este tipo de análisis con la finalidad de comprender no solo la desviación jurídica, sino desentrañar el enmarañamiento de redes, con funciones estatales, mandatos jurídicos, redes de criminales y profesionales a su servicio, equipos de inteligencia y cómputo, que hacen posible la comisión de delitos en función de guerras aupadas por la estatalidad misma.
-
-# Referencias

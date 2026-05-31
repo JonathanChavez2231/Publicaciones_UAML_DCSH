@@ -11,21 +11,25 @@ project:
 # METADATOS EDITORIALES Y BIBLIOGRÁFICOS
 # ============================================
 book:
-  title: "Título completo del libro"
-  subtitle: "Subtítulo opcional"
+  title: ""
+  subtitle: ""
   editor:
-    - name: "Nombre del Coordinador"
-      affiliation: "Institución del Coordinador"
+    - name: "Abraham Zaíd Díaz Delgador"
+      affiliation: "Universidad Iberoamericana, Ciudad de México"
       email: "un.correo@institución.com"
       orcid: "0000-0000-0000-0000"  # opcional pero recomendado
   publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
   publisher-place: "Lerma de Villada, Estado de México"
-  date: "2026-05-31"  # formato ISO 8601: AAAA-MM-DD
+  date: ""  # formato ISO 8601: AAAA-MM-DD
   isbn: "978-xxx-xxx-xxx-x"
   doi: "10.xxxx/xxxxx"  # si ya está asignado
   license: "CC BY-NC-SA 4.0"  # o la que corresponda
   chapters:
     - index.qmd
+    - cap1.qmd
+    - cap2.qmd
+    - cap3.qmd
+    - cap4.qmd
 
 # ============================================
 # CONFIGURACIÓN DE SALIDA PDF
@@ -70,5 +74,5 @@ format:
 
     # Bibliografía y citas (COMÚN A TODOS LOS CAPÍTULOS)
     csl: estilos/apa-6th-edition-es.csl
-    bibliography: plantilla_bibliografia.bib  # Archivo unificado en raíz
+    bibliography: libro1_2026.bib  # Archivo unificado en raíz
     
