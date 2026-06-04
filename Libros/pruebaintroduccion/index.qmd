@@ -7,7 +7,7 @@ pdf-engine: xelatex
 
 \vspace{-\baselineskip}
 
-# Introducción {.unnumbered}
+## Introducción {.unnumbered}
 
 \addtocontents{toc}{\protect\hspace{1.5em}Nombre del Autor\par}
 

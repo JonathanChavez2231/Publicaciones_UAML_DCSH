@@ -1,13 +1,15 @@
 ---
 # Metadatos ESENCIALES del capítulo (no repetitivos)
+pdf-engine: xelatex
 title: "[Título del capítulo]"
-subtitle: "[Título en inglés]"
+subtitle: "[Título en inglés]" #Por cuestiones de diseño aquí va el nombre completo de la autora o autor
 
 author:
-  - name: "[Nombre del Autor]"
+  - name: "[Nombre del Autor]" #Aquí también va el nombre completo, no importa que se repita
     affiliation: "[Universidad]"
-    orcid: "0000-0000-0000-0000"  # Si el autor lo proporciona
-    email: "un.correo@direccion.com"  # Si el autor lo proporciona
+    orcid: "0000-0000-0000-0000"  # Si lo proporcionan; si no hay info se puede borrar
+    email: "un.correo@direccion.com"  # Si lo proporcionan; si no hay info se puede borrar 
+    correspondence: true #Si no hay correo, se puede borrar
 
 # Metadatos ESPECÍFICOS del capítulo (no centralizables)
 chapter-number: ""
@@ -15,7 +17,7 @@ page-range: ""  # Ajustar según paginación final
 doi: ""  # DOI del capítulo (cuando se asigne)
 
 # Contenido del capítulo
-abstract: |
+resumen: |
   [Resumen del capítulo]
 
 keywords:
@@ -25,9 +27,6 @@ keywords:
 # Tipo de documento
 type: chapter
 
-# Personalización específica (opcional, solo si varía por capítulo)
-footer-note: |
-  \newcommand{\articuloTitulo}{[Título abreviado]}
 
 # Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
 acknowledgments: ""  # Agradecimientos específicos del capítulo
@@ -35,11 +34,8 @@ funding: ""  # Financiamiento específico
 notes: ""  # Notas del autor
 ---
 
-## Intro {.unnumbered .unlisted}
+\addtocontents{toc}{\protect\hspace{1.5em}Nombre del Autor\par}
+\markboth{Título corto, priorizando palabras clave}{}
 
-\addtocontents{toc}{\protect\hspace{1.5em}Nombre del autor\par}
-
-Nombre del autor[^3]
-
-[^3]: Adscripción del autor, semblanza.
+## Introducción {.unnumbered .unlisted}
 

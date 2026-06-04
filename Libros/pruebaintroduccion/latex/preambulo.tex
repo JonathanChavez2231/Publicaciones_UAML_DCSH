@@ -1,0 +1,26 @@
+% --- Configuración de fuentes y tipografía global ---
+% Nota: mainfont se maneja desde el YAML, no es necesario \setmainfont aquí.
+
+% --- Ajustes de párrafo ---
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+% --- Jerarquía y alineación de títulos (KOMA-Script) ---
+\addtokomafont{chapter}{\Large\raggedright}   % Corregido el espacio en "c hapter"
+\addtokomafont{section}{\large\raggedright}
+\addtokomafont{subsection}{\normalsize}
+
+% --- Encabezados y pies de página ---
+\usepackage{scrlayer-scrpage}
+\automark{chapter}  % Corregido el espacio en "c hapter"
+
+% --- Gestión de gráficos ---
+\usepackage{graphicx}
+\graphicspath{{../assets/imagenes/}{../../institucionales/assets/logos/}}
+
+% --- Ajustes de espaciado y disposición ---
+\addtokomafont{disposition}{\linespread{1.2}\selectfont}
+\RedeclareSectionCommand[  % Corregido "Red eclare"
+  beforeskip=0.0cm,
+  afterskip=0cm
+]{chapter}

@@ -1,7 +1,7 @@
 ---
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 title: "Los retos de la brecha digital en México. Reflexiones etnográficas de la política de telecomunicaciones 2024-2025"
-subtitle: "Abraham Zaíd Díaz Delgado"
+subtitle: ""
 
 author:
   - name: "Abraham Zaíd Díaz Delgado"
@@ -15,7 +15,7 @@ page-range: ""  # Ajustar según paginación final
 doi: ""  # DOI del capítulo (cuando se asigne)
 
 # Contenido del capítulo
-abstract: |
+resumen: |
   Este capítulo presenta un abordaje etnográfico de la política de telecomunicaciones en México en el contexto de continuidad y consolidación política del régimen autodenominado como la “Cuarta Transformación” entre los años 2024 y 2025. Estas reflexiones parten de una experiencia profesional en la dependencia estatal encargada garantizar el derecho de acceso a servicios de telecomunicaciones. Desde la perspectiva etnográfica y crítica, este trabajo identifica algunos de los principales retos que enfrenta el Estado para erradicar la brecha digital en el país. Por ejemplo: las narrativas oficiales de desarrollo tecnológico y las condiciones vulnerables de las poblaciones desconectadas; las limitaciones de la visión estatal centrada en aspectos de orden técnico; la desigualdad social como condición preexistente para la brecha digital. Además, el trabajo busca desbordar las fronteras disciplinares planteando la posibilidad de emplear etnografía como elemento explicativo para el ciclo de las políticas públicas.
 keywords:
   - "Políticas Públicas"
@@ -35,9 +35,14 @@ funding: ""  # Financiamiento específico
 notes: ""  # Notas del autor
 ---
 
-# Introducción {.unnumbered .unlisted}
-
 \addtocontents{toc}{\protect\hspace{1.5em}Abraham Zaíd Díaz Delgado\par}
+\markboth{Brecha Digital en México}{}
+
+\begin{flushright}
+\Large Abraham Zaíd Díaz Delgado\footnote{SEMBLANZA}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
 
 Cerrar la brecha digital requiere el análisis crítico de las condiciones de vida de las poblaciones más marginadas del país, así como de la razón gubernamental que determina las políticas públicas en materia de telecomunicaciones. Este capítulo invita a descentrar las soluciones de los aspectos técnicos y de infraestructura y a idear estrategias integrales de orden sociocultural y político como lo pueden ser la alfabetización tecnológica, el desarrollo institucional tanto a nivel operativo como en la percepción dentro de la esfera pública y; que fomenten la confianza en las TIC´s y en las telecomunicaciones como nodo articulador de la gobernanza democrática.
 

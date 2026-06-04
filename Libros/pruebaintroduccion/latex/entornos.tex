@@ -1,0 +1,20 @@
+% --- Paquetes para entornos personalizados ---
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+% --- Entorno para transcripciones y entrevistas ---
+\newenvironment{transcripcion}{  % Corregido "transcripci on"
+  \begin{list}{}{
+    \leftmargin=1em
+    \rightmargin=0em
+    \itemsep=0.3em
+    \parsep=0.0em
+    \listparindent=0pt
+  }
+}{
+  \end{list}
+}
+
+% --- Comandos auxiliares ---
+\newcommand{\personaje}[1]{\textbf{#1}\quad}
+\newcommand{\escena}[1]{\textit{\small #1}\par\vspace{0.5em}}
